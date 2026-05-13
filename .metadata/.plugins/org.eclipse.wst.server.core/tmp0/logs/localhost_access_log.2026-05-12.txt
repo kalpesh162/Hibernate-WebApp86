@@ -1,0 +1,10 @@
+127.0.0.1 - - [12/May/2026:16:18:24 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:18:25 +0530] "GET /StudentWebAppWithHibernate/ HTTP/1.1" 200 511
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:18:25 +0530] "GET /StudentWebAppWithHibernate/css/form.css HTTP/1.1" 404 756
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:18:26 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:19:46 +0530] "POST /StudentWebAppWithHibernate/addBook HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:19:46 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 404 748
+127.0.0.1 - - [12/May/2026:16:43:01 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:43:02 +0530] "GET /StudentWebAppWithHibernate/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:43:02 +0530] "GET /StudentWebAppWithHibernate/css/form.css HTTP/1.1" 404 756
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:43:15 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 500 5442

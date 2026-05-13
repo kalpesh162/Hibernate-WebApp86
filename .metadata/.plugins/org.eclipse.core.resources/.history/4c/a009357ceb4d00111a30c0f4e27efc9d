@@ -1,0 +1,42 @@
+package com.dao;
+
+import java.util.List;
+
+import com.entity.Book;
+
+public class BookDaoImpl implements BookDao{
+
+	@Override
+	public int addBook(Book book) {
+	
+		
+		
+		
+		return 0;
+	}
+
+	@Override
+	public int updateBook(Book book) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int deleteBookById(int id) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public Book findBookById(int id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Book> findAllBooks() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
