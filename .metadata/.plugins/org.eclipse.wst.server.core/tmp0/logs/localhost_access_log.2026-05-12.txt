@@ -8,3 +8,11 @@
 0:0:0:0:0:0:0:1 - - [12/May/2026:16:43:02 +0530] "GET /StudentWebAppWithHibernate/ HTTP/1.1" 304 -
 0:0:0:0:0:0:0:1 - - [12/May/2026:16:43:02 +0530] "GET /StudentWebAppWithHibernate/css/form.css HTTP/1.1" 404 756
 0:0:0:0:0:0:0:1 - - [12/May/2026:16:43:15 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 500 5442
+127.0.0.1 - - [12/May/2026:16:44:57 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:44:57 +0530] "GET /StudentWebAppWithHibernate/css/form.css HTTP/1.1" 404 756
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:44:59 +0530] "GET /StudentWebAppWithHibernate/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:44:59 +0530] "GET /StudentWebAppWithHibernate/css/form.css HTTP/1.1" 404 756
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:45:10 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 200 33117
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:45:10 +0530] "GET /StudentWebAppWithHibernate/css/table.css HTTP/1.1" 404 757
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:47:30 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 200 33117
+0:0:0:0:0:0:0:1 - - [12/May/2026:16:47:30 +0530] "GET /StudentWebAppWithHibernate/css/table.css HTTP/1.1" 200 1057
