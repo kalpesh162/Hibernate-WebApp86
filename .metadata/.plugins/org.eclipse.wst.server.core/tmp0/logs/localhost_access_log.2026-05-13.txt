@@ -1,0 +1,14 @@
+127.0.0.1 - - [13/May/2026:15:16:40 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:16:41 +0530] "GET /StudentWebAppWithHibernate/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:16:41 +0530] "GET /StudentWebAppWithHibernate/css/form.css HTTP/1.1" 200 879
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:16:41 +0530] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:17:38 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 200 33117
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:17:38 +0530] "GET /StudentWebAppWithHibernate/css/table.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:17:47 +0530] "GET /StudentWebAppWithHibernate/deleteBook?id=70 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:17:47 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 200 32513
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:17:53 +0530] "GET /StudentWebAppWithHibernate/deleteBook?id=69 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:17:53 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 200 31929
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:17:59 +0530] "GET /StudentWebAppWithHibernate/deleteBook?id=68 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:17:59 +0530] "GET /StudentWebAppWithHibernate/readBook HTTP/1.1" 200 31331
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:42:18 +0530] "GET /StudentWebAppWithHibernate/updateFormBookServlet?id=56 HTTP/1.1" 404 761
+0:0:0:0:0:0:0:1 - - [13/May/2026:15:43:24 +0530] "GET /StudentWebAppWithHibernate/updateFormBookServlet?id=55 HTTP/1.1" 404 761
